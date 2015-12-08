@@ -1,0 +1,21 @@
+Source System Name X Y Z
+Dosenbach et al, 2007 Fronto-parietal task control R dlPFC 46 28 31
+Dosenbach et al, 2007 Fronto-parietal task control L dlPFC -44 27 33
+Dosenbach et al, 2007 Fronto-parietal task control R frontal 44 8 34
+Dosenbach et al, 2007 Fronto-parietal task control L frontal -42 7 36
+Dosenbach et al, 2007 Fronto-parietal task control R IPL 54 -44 43
+Dosenbach et al, 2007 Fronto-parietal task control L IPL -53 -50 39
+Dosenbach et al, 2007 Fronto-parietal task control R IPS 32 -59 41
+Dosenbach et al, 2007 Fronto-parietal task control L IPS -32 -58 46
+p.c. Marc Raichle Default mode network PCC 1 -51 29
+p.c. Marc Raichle Default mode network mPFC -1 61 22
+p.c. Marc Raichle Default mode network L AG -48 -66 34
+p.c. Marc Raichle Default mode network R AG 53 -61 35
+p.c. Marc Raichle Default mode network L lat temp -65 -23 -9
+p.c. Marc Raichle Default mode network R lat temp 61 -21 -12
+p.c. Marc Raichle Dorsal attention L pIPS -26 -65 52
+p.c. Marc Raichle Dorsal attention L FEF -29 -5 55
+p.c. Marc Raichle Dorsal attention R pIPS 28 -65 51
+p.c. Marc Raichle Dorsal attention R FEF 31 -5 54
+p.c. Marc Raichle Dorsal attention R aIPS 43 -36 46
+p.c. Marc Raichle Dorsal attention L aIPS -45 -37 48
